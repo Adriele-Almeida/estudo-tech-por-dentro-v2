@@ -1,0 +1,33 @@
+Dynamics 365 Customer Service: chega de e-mail sem resposta no suporte
+https://www.youtube.com/watch?v=EEohWoPPeCc
+Canal: Tech por Dentro | Publicado em 17/11/2026
+============================================================
+
+Você mandou um e-mail para o suporte. Passa um dia, dois, e nada. Do outro lado, o pedido se perdeu numa caixa de e-mail compartilhada. Ninguém sabe quem pegou nem qual é o prazo. Para isso existe o Dynamics 365 Customer Service. Hoje você vai entender como ele organiza o atendimento, do primeiro contato até a solução. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Ele é o app de atendimento da Microsoft e roda em cima do Dataverse, o mesmo banco do Dynamics 365 Sales.
+
+Tudo gira em torno do caso. Cada problema do cliente vira um caso, com número, prioridade e histórico. Ele nem precisa ser criado na mão: o e-mail que chega no suporte já vira caso sozinho. O caso tem um ciclo: entra ativo, é atendido e termina resolvido ou cancelado.
+
+Depois vêm as filas. Elas guardam o trabalho que está esperando: suporte técnico, financeiro, clientes VIP. E o roteamento unificado manda cada caso para o atendente certo. Ele olha a habilidade, a disponibilidade e a capacidade de cada pessoa.
+
+Aí entra o SLA, o acordo de nível de serviço: primeira resposta em uma hora, solução em um dia, por exemplo. Se o prazo estiver vencendo, o sistema avisa antes. E os direitos definem quanto atendimento cada cliente contratou, como dez chamados por mês.
+
+Agora, a base de conhecimento. São artigos com a solução dos problemas mais comuns. O atendente busca sem sair do caso, e o cliente pode achar a resposta sozinho num portal.
+
+E o cliente fala por onde quiser: e-mail, chat, WhatsApp ou telefone. Tudo cai no mesmo lugar. O atendente trabalha no Copilot Service Workspace, com várias conversas abertas em abas ao mesmo tempo. E o Copilot ajuda no meio do caminho: ele resume o caso, sugere a resposta do e-mail e até escreve um artigo novo a partir de um caso resolvido. O supervisor acompanha tudo em painéis: casos abertos, prazos estourando e a satisfação do cliente.
+
+Qual a diferença para o Sales? O Sales cuida de vender; o Customer Service cuida de quem já comprou. E os dois compartilham as mesmas contas e contatos.
+
+E quanto custa? São três planos, por usuário, por mês. O Professional custa 50 dólares, com o básico: casos, filas e base de conhecimento. O Enterprise, 105 dólares, com roteamento unificado e mais personalização. E o Premium, 195 dólares, já com os canais do Contact Center e créditos do Copilot. Chat e telefone não vêm no Professional nem no Enterprise: eles exigem o Contact Center licenciado à parte ou o plano Premium.
+
+Seu atendimento precisa do Customer Service? Cinco sinais:
+1. Pedidos se perdem no e-mail.
+2. Ninguém sabe o prazo de cada chamado.
+3. O cliente repete a história a cada contato.
+4. As mesmas dúvidas chegam todo dia.
+5. Você não sabe quantos chamados estão atrasados.
+
+Lembra do e-mail sem resposta? Com o Customer Service, ele vira caso, cai na fila certa, tem prazo, e o cliente recebe a resposta. Cliente bem atendido compra de novo e ainda indica para os amigos.
+
+E aí, como é o atendimento na sua empresa: e-mail, planilha ou sistema? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve no Tech por Dentro.

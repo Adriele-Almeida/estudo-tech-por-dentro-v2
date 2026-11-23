@@ -1,0 +1,20 @@
+O dev que foi vencido pelo MFA (SMS, app e Face ID)
+https://www.youtube.com/watch?v=2hOnvguwE8Y
+Canal: Tech por Dentro | Publicado em 19/11/2026
+============================================================
+
+Esse é o João, 23 anos, dev de RPA. Hoje ele só quer fazer uma coisa: entrar no sistema.
+
+Antigamente era simples: senha e um código por SMS. Simples… se o SMS chegasse. O João digita a senha. "Enviamos um código para o seu celular." Ele espera um minuto, três minutos. Nada. O escritório é no subsolo. Ele sobe a escada, levanta o celular para o céu, e o código chega. Ele desce correndo e digita. "Código expirado." Ele pede outro. Chegam dois. Qual é o certo? Nenhum.
+
+Aí a empresa evoluiu: "SMS não é seguro. Agora, use o aplicativo autenticador." Agora o João precisa de um app só para provar que ele é ele. Ele abre o app: tem 15 contas, e todas se chamam Microsoft. Acha a certa. Seis números. Ele começa a digitar e o código muda. Trinta segundos: sempre faltam três.
+
+Aí vem a notificação: "Aprovar entrada?" Ele aprova. Chega outra, e outra, e outra. "Digite no aplicativo o número que aparece na tela." O número some antes de o app abrir.
+
+E o pior dia de todos: o João troca de celular. O app novo vem vazio. Todas as contas perdidas. Para recuperar o acesso, ele abre um chamado. O chamado pede login com MFA.
+
+Hoje, a tecnologia chegou ao ápice: nem senha, nem código. Agora é o rosto. "Olhe para a câmera." O João olha. "Rosto não reconhecido." Ele tira os óculos. Não reconhece. Põe os óculos. Não reconhece. Arruma o cabelo. Acende a luz. Apaga a luz. Às 8 da manhã, com a cara amassada de sono, o sistema simplesmente não acredita que aquele é o João. "Use o PIN." Que PIN? Ele criou um PIN?
+
+Depois de 40 minutos, ele finalmente entra, abre o sistema e clica em "Salvar". "Sua sessão expirou. Para sua segurança, autentique-se novamente."
+
+O João olha para a câmera. A câmera olha para o João. "Rosto não reconhecido."

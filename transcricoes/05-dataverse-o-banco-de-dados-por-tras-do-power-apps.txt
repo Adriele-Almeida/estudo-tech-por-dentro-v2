@@ -1,0 +1,33 @@
+Dataverse: o banco de dados por trás do Power Apps e do Dynamics 365
+https://www.youtube.com/watch?v=FxpUeM8H_8E
+Canal: Tech por Dentro | Publicado em 16/11/2026
+============================================================
+
+Toda vez que você abre o Dynamics 365, usa um app do Power Apps ou dispara um fluxo, os dados precisam morar em algum lugar. Em muita empresa, eles moram numa planilha compartilhada: dez pessoas editando, ninguém sabe quem mudou o quê e, um dia, alguém apaga uma coluna inteira. Na Power Platform, esse lugar tem nome: Dataverse. Hoje você vai entender o que ele é, como funciona e quanto custa. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Ele já teve outro nome: Common Data Service, o CDS. Em novembro de 2020, virou Dataverse. Mas não pense nele como um banco de dados qualquer. Ele já vem com segurança, regras de negócio e auditoria prontas para usar.
+
+Tudo começa nas tabelas. Cada tabela tem colunas, que são os campos, e linhas, que são os registros. Parece uma planilha, só que muito mais esperta. Ele já vem com tabelas prontas, como Conta e Contato, e você cria as suas do zero. Cada coluna tem um tipo — texto, número, data, moeda, escolha, arquivo e até fórmula — e o sistema valida tudo sozinho.
+
+Depois vêm os relacionamentos. Um cliente tem vários pedidos: isso é um para muitos. E um produto aparece em vários pedidos: muitos para muitos.
+
+Aí entram as regras de negócio. Se o valor passar de 10.000, a aprovação vira obrigatória, sem código e valendo em qualquer app. Vêm também colunas calculadas, colunas de totalização e fluxos do Power Automate que disparam quando um registro muda.
+
+Agora, a parte que planilha nenhuma faz bem: segurança. Os perfis de segurança dizem quem pode criar, ler, editar ou excluir em cada tabela. E você define o alcance: só os próprios registros, os da unidade de negócio ou os da empresa inteira. Dá para esconder até uma coluna específica, como o salário. Com a auditoria ligada, fica registrado quem mudou o quê e quando.
+
+E quem usa tudo isso? O Dynamics 365 roda em cima dele. O Power Apps, o Power Automate e o Copilot Studio também. E o Power BI lê os dados de lá.
+
+Qual a diferença para uma lista do SharePoint? A lista é simples e já vem no Microsoft 365. O Dataverse é feito para sistemas de verdade, com relacionamentos, regras e segurança fina, mas exige licença premium. Existe ainda o Dataverse for Teams, uma versão mais simples, incluída em vários planos do Microsoft 365, para apps dentro do Teams.
+
+E quanto custa? O Dataverse vem junto com as licenças do Power Apps, do Power Automate e do Dynamics 365. Cada licença soma espaço a um pool da empresa. Se faltar, o espaço extra de banco de dados custa cerca de 40 dólares por gigabyte por mês; já o de arquivos, uns 2 dólares. Por isso, não guarde anexo pesado no banco de dados. Arquivo grande vai para o SharePoint ou para o Azure, que custam bem menos.
+
+Quando você precisa do Dataverse? Cinco sinais:
+1. Os dados têm muitos relacionamentos.
+2. As regras precisam valer em qualquer app.
+3. Cada pessoa só pode ver uma parte dos dados.
+4. A auditoria é obrigatória.
+5. O sistema vai crescer e conversar com o Dynamics 365.
+
+Lembra da planilha com dez pessoas editando? No Dataverse, cada um vê o que pode, ninguém apaga o que não deve e tudo fica registrado. O Dataverse é o coração silencioso da Power Platform: ninguém vê, mas tudo depende dele.
+
+E aí, seus apps usam Dataverse, SharePoint ou planilha? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve no Tech por Dentro.

@@ -1,0 +1,29 @@
+Dynamics 365 Customer Insights: o antigo Marketing, explicado (Journeys + Data)
+https://www.youtube.com/watch?v=T1qexrFU0zw
+Canal: Tech por Dentro | Publicado em 18/11/2026
+============================================================
+
+Sabe aquele e-mail de promoção que chega igual para todo mundo? Inclusive para quem acabou de comprar o produto. O problema é que os dados do cliente estão espalhados: no site, na loja, no CRM e no aplicativo. Ninguém tem a visão completa. Para isso existe o Dynamics 365 Customer Insights. Hoje você vai entender as duas partes dele e quanto custa. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Primeiro, uma confusão de nomes. O antigo Dynamics 365 Marketing virou Customer Insights – Journeys, e a plataforma de dados virou Customer Insights – Data. Hoje, os dois vêm numa licença só.
+
+Vamos começar pelo Data. Ele puxa dados de vários sistemas e junta tudo num lugar só. Três cadastros da mesma Ana — no site, na loja e no CRM — viram um único perfil, uma visão completa do cliente. Com o perfil pronto, você cria segmentos. Por exemplo: clientes que compraram nos últimos 30 dias e moram na Bahia. E dá para usar inteligência artificial para prever, por exemplo, quem tem risco de cancelar.
+
+Agora, o Journeys: é ali que o marketing acontece. Você desenha jornadas arrastando blocos. A jornada pode começar por um gatilho em tempo real: o cliente abandonou o carrinho e, minutos depois, recebe um lembrete. E a jornada se ramifica: abriu o e-mail, recebe uma oferta; não abriu, recebe um SMS dois dias depois. Os canais incluem e-mail, SMS e notificação no aplicativo.
+
+Dá para fazer teste A/B: metade recebe um assunto, a outra metade recebe outro, e o sistema aponta o vencedor. Tudo respeita o consentimento: quem não aceitou receber mensagem não recebe. Isso é essencial para a LGPD.
+
+Com o Copilot, você descreve o segmento com as suas palavras — tipo "clientes que não compram há 90 dias" — e ele monta o filtro para você. Como roda no Dataverse, ele conversa direto com o Sales: o lead que preencheu o formulário já cai para o vendedor.
+
+E quanto custa? Aqui, a licença é por empresa, não por usuário. A licença base custa 1.700 dólares por mês, ou 1.000 dólares para quem já tem um app qualificado do Dynamics 365. Inclui usuários ilimitados, 100.000 perfis unificados e 10.000 pessoas impactadas. Não é ferramenta para empresa pequena com uma lista simples de e-mails. Ela brilha quando você tem muitos dados e muitos clientes.
+
+Sua empresa precisa do Customer Insights? Cinco sinais:
+1. Os dados do cliente estão em vários sistemas.
+2. Todo mundo recebe a mesma campanha.
+3. Você não sabe quem está prestes a cancelar.
+4. O marketing não conversa com o comercial.
+5. Você precisa provar o consentimento de cada contato.
+
+Lembra do e-mail igual para todo mundo? Com o Customer Insights, cada cliente recebe a mensagem certa, no canal certo, na hora certa. Marketing bom não é o que fala mais alto; é o que fala com a pessoa certa.
+
+E aí, o marketing da sua empresa ainda manda a mesma mensagem para todo mundo? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve no Tech por Dentro.

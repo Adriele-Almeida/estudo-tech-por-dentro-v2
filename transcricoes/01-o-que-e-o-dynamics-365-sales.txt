@@ -1,0 +1,39 @@
+O que é o Dynamics 365 Sales?
+https://www.youtube.com/watch?v=zznZwwfiwmY
+Canal: Tech por Dentro | Publicado em 12/11/2026
+============================================================
+
+São 1.248 linhas numa planilha de vendas e, perdido em algum lugar dela, um cliente que pediu orçamento há três semanas e ninguém respondeu. Ele não reclamou: simplesmente fechou com o concorrente. O problema não era o vendedor; era onde a informação morava: em planilhas, cadernos e na caixa de e-mail de cada um.
+
+Para isso existe o CRM, um sistema que guarda tudo sobre seus clientes e suas vendas em um lugar só. E um dos mais usados no mundo corporativo é o da Microsoft, o Dynamics 365 Sales. Hoje você vai entender o que ele é, como funciona e quando vale a pena. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Essa história começa em 2003. A Microsoft lança o Microsoft CRM versão 1.0, que só funcionava instalado nos servidores da própria empresa. Em 2005 chega a versão 3.0, a primeira com o nome Dynamics CRM. Em novembro de 2016, o CRM e o ERP da Microsoft viram uma família só na nuvem: o Dynamics 365. A parte de vendas ganha nome próprio, Dynamics 365 Sales. Na prática, hoje você acessa pelo navegador ou pelo celular, sem servidor na sala e sem instalação.
+
+Mas como ele funciona? Pensa no funil. Tudo começa com o lead, alguém que demonstrou interesse: um formulário no site, um cartão de visita, uma ligação. O vendedor investiga: tem orçamento? Tem prazo? Quem decide a compra? Se fizer sentido, ele qualifica o lead. E aqui está o pulo do gato: ao qualificar, o sistema cria sozinho a conta, o contato e a oportunidade.
+
+A oportunidade é o negócio em andamento. No topo da tela, uma barra de etapas guia o vendedor: qualificar, desenvolver, propor e fechar. Cada etapa pede as informações certas e, assim, o time inteiro vende do mesmo jeito. Na hora de propor, você gera a cotação com os produtos da sua lista de preços, descontos e totais, tudo calculado. Cliente aceitou? A cotação vira pedido e a oportunidade é fechada como ganha. Depois que o pedido é atendido, sai a fatura. Do primeiro contato até a cobrança, tudo fica no mesmo histórico.
+
+Lead, oportunidade, cotação, pedido, fatura: esse é o esqueleto do Dynamics 365 Sales. Ah, mas se fosse só isso, seria um cadastro bonito. O que muda o jogo são os recursos em volta.
+
+Primeiro, ele conversa com o Outlook e o Teams. O e-mail que você mandou para o cliente aparece direto no registro dele. Cada ligação, reunião e e-mail fica na linha do tempo. Se o vendedor sair de férias, quem assumir sabe exatamente onde parou.
+
+Segundo, a previsão de vendas: o gestor enxerga quanto deve fechar no mês com base nas oportunidades abertas.
+
+Terceiro, o acelerador de vendas, que monta a lista de trabalho do dia: ligar para esse cliente, mandar e-mail para aquele.
+
+Quarto, o Copilot. A inteligência artificial resume a oportunidade, rascunha e-mails e mostra o que mudou desde a sua última visita.
+
+Como ele roda na Power Platform, dá para automatizar o que é repetitivo com o Power Automate: oportunidade ganha, o financeiro é avisado sozinho. Por baixo de tudo, os dados ficam no Dataverse, o banco de dados da Power Platform, com permissões por perfil de usuário.
+
+E quanto custa? A licença é por usuário, por mês, com cobrança anual. São três planos principais: Professional por US$ 65, Enterprise por US$ 105 e Premium por US$ 150. O Professional atende processos de venda mais simples. O Enterprise libera personalização avançada, previsões e o Copilot. E o Premium soma mais recursos de inteligência artificial. Mas atenção: licença não é implantação. O valor de verdade aparece quando o sistema é configurado para o processo da sua empresa.
+
+E como saber se a sua empresa precisa disso? Cinco sinais:
+1. A informação mora em planilhas.
+2. Ninguém sabe o que vai fechar no mês.
+3. O cliente fica sem retorno.
+4. Cada vendedor vende de um jeito.
+5. Quando alguém sai, o histórico vai junto.
+
+Lembra daquele cliente perdido na linha 1.248? No CRM, ele teria virado uma tarefa com dono e prazo, talvez uma venda. O Dynamics 365 Sales não vende sozinho, mas garante que nenhuma oportunidade caia no esquecimento.
+
+E aí, na sua empresa, as vendas vivem num CRM ou numa planilha? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve para mais conteúdo sobre Dynamics e Power Platform.

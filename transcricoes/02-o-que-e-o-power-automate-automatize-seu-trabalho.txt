@@ -1,0 +1,37 @@
+O que é o Power Automate? Automatize seu trabalho sem programar
+https://www.youtube.com/watch?v=hiZRLncq_ds
+Canal: Tech por Dentro | Publicado em 13/11/2026
+============================================================
+
+Vinte minutos por dia parece pouco, mas, num ano de trabalho, são mais de 70 horas copiando e colando. Abrir o e-mail, achar o anexo, copiar os dados para a planilha, avisar o chefe no Teams, todo santo dia. E se alguém fizesse isso por você, sem errar, sem esquecer e sem cansar? É exatamente isso que faz o Power Automate, a ferramenta de automação da Microsoft. Hoje você vai entender como ele funciona, o que dá para fazer e quanto custa. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Essa história começa em 2016, com outro nome: Microsoft Flow. A ideia era simples: conectar aplicativos sem escrever código. Em novembro de 2019, ele vira Power Automate e ganha robôs que mexem na tela do computador. Em 2020, a Microsoft compra a Softomotive, especialista em automação de desktop, e, em 2021, o Power Automate Desktop fica gratuito para quem usa o Windows 10.
+
+Mas como ele funciona? Todo fluxo segue uma receita de duas partes. Primeiro, o gatilho, o evento que dá a partida: chegou um e-mail, deu 8 horas, alguém apertou um botão. Depois, as ações, os passos que o robô executa um atrás do outro: salvar o anexo, criar uma linha na planilha, mandar a mensagem. Quando acontecer isso, faça aquilo. Esse é o coração de qualquer automação.
+
+E, para conversar com outros sistemas, ele usa conectores. São mais de mil: Outlook, SharePoint, Excel, Teams, SAP, Salesforce e muito mais.
+
+Existem três tipos principais de fluxo. Vamos por partes.
+
+Os fluxos de nuvem rodam nos servidores da Microsoft, sem depender do seu computador ligado. Eles podem ser automatizados, agendados ou instantâneos.
+
+Os fluxos de desktop são o famoso RPA: um robô que clica, digita e copia dados na tela, igualzinho a uma pessoa. Perfeito para sistemas antigos que não têm integração. Esse robô pode rodar assistido, com você ali do lado, ou desassistido, sozinho numa máquina.
+
+E os fluxos de processo de negócio guiam pessoas por etapas dentro de um sistema, como a barra de etapas do Dynamics 365.
+
+Um dos usos mais populares são as aprovações: o pedido de compra chega, o gestor aprova direto no Teams ou no e-mail e o fluxo segue sozinho. Juntando tudo, no exemplo: chegou nota fiscal por e-mail, o fluxo salva o PDF no SharePoint, lê os dados com inteligência artificial, registra no sistema e avisa o financeiro no Teams. E tem mais: com o Copilot, você descreve em português o que quer automatizar e ele monta o rascunho do fluxo para você.
+
+E quanto custa? Depende de onde e como o fluxo roda. Se a sua empresa tem Microsoft 365, você já cria fluxos com os conectores padrão. O Premium, por 15 dólares por usuário por mês, libera os conectores premium e o robô assistido. E o Process, por 150 dólares por robô, cobre as automações desassistidas.
+
+Mas atenção: automatizar um processo bagunçado só faz a bagunça andar mais rápido. Primeiro organize, depois automatize.
+
+Como saber se uma tarefa merece virar automação? Cinco sinais:
+1. Ela é repetitiva.
+2. Segue regras claras.
+3. Acontece com frequência.
+4. Usa dados digitais.
+5. Um erro humano ali custa caro.
+
+Lembra daqueles 20 minutos por dia? Com o fluxo, eles viram alguns segundos, e as 70 horas por ano voltam para você. O Power Automate não substitui ninguém: ele tira o trabalho chato do caminho para sobrar tempo para o que importa.
+
+E você, qual tarefa do seu dia automatizaria primeiro? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve no Tech por Dentro.

@@ -1,0 +1,18 @@
+A ansiedade do Teams: o dev que explodiu com uma ligação
+https://www.youtube.com/watch?v=HyPwt57OAnQ
+Canal: Tech por Dentro | Publicado em 20/11/2026
+============================================================
+
+Esse é o João. O projeto está atrasado, o robô quebrou de manhã e o prazo é amanhã. O coração dele já está em 100 batidas por minuto. Ele respira fundo, coloca o fone e abre o código. Foco total.
+
+110. É a Carla: "Oi." Só "oi". Nada mais. O João fica olhando. Aparece "digitando…". Some. Aparece de novo. Some.
+
+120. Agora é o grupo do projeto: 47 mensagens não lidas, 30 são figurinhas. "Fulano mencionou você." "Alguém reagiu à sua mensagem." "Lembrete: reunião em 15 minutos."
+
+140. Ele silencia o grupo. O Teams avisa: "Você tem novas atividades." Ele fecha o Teams. Mas o Teams não fecha: ele só vai para a bandeja, do lado do relógio, olhando para o João. Ele coloca o status em "Não incomodar". A notificação vem mesmo assim: "Mensagem prioritária."
+
+160. O João finalmente encontra o bug. Ele está quase lá. Só falta uma linha.
+
+E aí o Teams toca. Não é mensagem, é ligação. Sem aviso, sem "posso te ligar?". Só tocando. O João explode: o teclado voa, o fone voa, o café voa. Ele atende: "Oi, João, é rapidinho. Você viu minha mensagem?"
+
+O Teams é uma ótima ferramenta. O problema nunca foi o Teams. É a notificação.

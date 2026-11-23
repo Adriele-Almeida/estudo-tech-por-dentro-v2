@@ -1,0 +1,33 @@
+Python pra RPA: Selenium, PyAutoGUI e BotCity explicados (sem enrolação)
+https://www.youtube.com/watch?v=Vy7oen2tSG0
+Canal: Tech por Dentro | Publicado em 15/11/2026
+============================================================
+
+Um robô que entra num site, baixa um relatório, atualiza a planilha e manda tudo por e-mail. Em Python, isso cabe em poucas dezenas de linhas de código. Muita gente acha que RPA só se faz com ferramenta cara, arrastando caixinhas, mas tem outro caminho: escrever código. Hoje você vai entender por que o Python virou uma das linguagens favoritas para automação e conhecer as ferramentas que fazem isso acontecer: Selenium, PyAutoGUI, BotCity e companhia. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Por que Python? Primeiro: em novembro de 2026, ele lidera o índice TIOBE de popularidade de linguagens. Segundo: é fácil de ler, quase como inglês. Terceiro: é gratuito e tem biblioteca pronta para quase tudo.
+
+E, lembrando, RPA é um robô de software que faz no computador o que uma pessoa faria: clica, digita, copia, cola e baixa arquivos, só que sem cansar. Em Python, um robô costuma trabalhar em três frentes: no navegador, na tela do computador e nos dados.
+
+Para o navegador, o clássico é o Selenium. Ele abre o Chrome, entra no site, preenche formulários e clica em botões, tudo comandado pelo código. O Selenium nasceu em 2004, dentro da ThoughtWorks. Em 2011, ganhou o WebDriver, e o WebDriver virou o padrão oficial do W3C que os navegadores seguem. Olha como é direto: abre o navegador, entra na página, preenche o usuário e clica em entrar. Uma alternativa mais nova é o Playwright, da Microsoft. Ele espera os elementos da página carregarem sozinho, o que deixa o robô menos frágil.
+
+Quando não é site — um sistema antigo, um programa de desktop —, aí entra o PyAutoGUI. Ele move o mouse, clica e digita como se fosse você. O código é simples: clique aqui, escreva isso, aperte Enter. O problema é que ele clica em coordenadas. Se a janela mudar de lugar, o robô clica no lugar errado.
+
+É aí que brilha o BotCity, uma plataforma brasileira fundada em 2018. Em vez de coordenadas, o robô procura a imagem do botão na tela, onde quer que ele esteja. No código, você diz: encontre o botão Salvar e clique nele. Se o botão mudar de lugar, o robô o encontra do mesmo jeito. E o BotCity tem o Maestro, um orquestrador. Ele agenda os robôs, guarda os logs e avisa quando algo dá errado. E não só robôs BotCity: dá para orquestrar Selenium, PyAutoGUI e outros.
+
+E, por trás de todo robô, tem dados. Com Pandas e OpenPyXL, você lê e escreve planilhas do Excel. Com pdfplumber, extrai texto de PDFs. E, com OCR, lê até documento escaneado. Juntando tudo, essa é a caixa de ferramentas do RPA em Python. E ainda tem o Robot Framework, para quem prefere escrever robôs com palavras-chave.
+
+Na prática, um robô completo pode ser assim: o Selenium entra no portal e baixa o relatório, o Pandas trata os dados, o robô monta a planilha e manda por e-mail, e o Maestro registra tudo.
+
+E Python ou ferramenta low-code, como o Power Automate? Python não tem licença e dá liberdade total, mas exige saber programar. O low-code é mais rápido de aprender, e muitas empresas usam os dois. Mas atenção: robô em Python também precisa de cuidado — tratar erros, guardar logs e nunca deixar senha escrita no código.
+
+Quer começar? Cinco passos:
+1. Aprenda o básico de Python.
+2. Automatize uma planilha com Pandas.
+3. Faça um robô web com Selenium.
+4. Teste a visão computacional do BotCity.
+5. Coloque logs e tratamento de erros desde o primeiro dia.
+
+Lembra do robô do começo? Site, relatório, planilha, e-mail. Agora você sabe: é Selenium, Pandas e um pouco de Python. O Python não substitui as ferramentas de RPA; ele te dá liberdade para automatizar do seu jeito.
+
+E você, já usou Selenium, PyAutoGUI ou BotCity? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve no Tech por Dentro.

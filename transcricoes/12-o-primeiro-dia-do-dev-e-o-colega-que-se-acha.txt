@@ -1,0 +1,26 @@
+O primeiro dia do dev… e o colega que se acha chefe (Git na prática)
+https://www.youtube.com/watch?v=8DYFxMC97Oc
+Canal: Tech por Dentro | Publicado em 21/11/2026
+============================================================
+
+Esse é o João. Primeiro dia como desenvolvedor. Camisa passada, crachá novo, café na mão. Coração: 90 batidas por minuto. Ansiedade normal de primeiro dia.
+
+Ele recebe o notebook, a senha e a primeira tarefa: consertar um botão de "Salvar" que não salva. Antes de mexer em qualquer coisa, ele faz o que aprendeu: cria uma branch, uma cópia do código só dele, para não estragar o que já funciona.
+
+Dez minutos depois, aparece o Lucas. O Lucas não é chefe do João, mas ninguém avisou o Lucas. "E aí, novato? Larga isso aí. Preciso que você arrume a impressora do terceiro andar." O João é dev, não é do suporte. 110. "Ah, e já que você está aí, preenche minha planilha de horas. A senha está no post-it." 120.
+
+Meio-dia. O João finalmente volta para o código. Acha o erro, corrige, testa. Funciona. Ele faz um commit, um "salvar" do Git, com uma mensagem dizendo o que mudou. "Commit? No meu tempo, a gente subia direto em produção. Por isso que vocês demoram." 130.
+
+O Lucas chama no Teams, depois no WhatsApp, depois pessoalmente, para perguntar se o João viu a mensagem do Teams.
+
+O João abre um pull request, um pedido para juntar a branch dele ao código principal. Antes de entrar, outro dev revisa. Adivinha quem se colocou como revisor? O Lucas. Comentário do Lucas: "Não gostei." Só isso. Sem explicar, sem sugerir nada. 150.
+
+5h50 da tarde. Outro dev aprova. O código vai para o ambiente de testes e quebra. "O novato derrubou o sistema!" "Mas na minha máquina funciona." 180. A frase mais famosa da programação. E quase sempre é verdade: o computador do dev tem uma configuração que o servidor não tem.
+
+O João quebra a caneta, depois o mouse, depois o crachá de primeiro dia. 200!
+
+Aí chega o chefe dele, o Iago. O Iago abre o log. Dois minutos. Faltava uma configuração no servidor. Não era o código do João. E o histórico do Git mostra quem apagou essa configuração ontem à noite. Commit: "ajustes". Autor: Lucas. "Lucas, a impressora do terceiro andar está te esperando."
+
+O João sobrevive ao primeiro dia. Batimentos: 80.
+
+Moral da história: a branch protege o código, o commit conta a história, o pull request é revisão, não ego. E o Git não esquece nada. Marca aquele colega que se acha seu chefe e se inscreve no Tech por Dentro.

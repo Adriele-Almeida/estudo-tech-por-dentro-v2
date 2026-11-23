@@ -1,0 +1,34 @@
+Um dia na vida de um DEV: antes e depois da IA
+https://www.youtube.com/watch?v=Hl23xjOBGpM
+Canal: Tech por Dentro | Publicado em 18/11/2026
+============================================================
+
+Este é o João, desenvolvedor há seis anos, e a rotina dele mudou mais nos últimos três anos do que em toda a carreira. Vamos ver um dia do João antes da IA e um dia depois.
+
+ANTES
+
+8 da manhã. O café na mão e uma tarefa nova: integrar um sistema de pagamentos. Primeiro passo: ler a documentação. Quarenta abas abertas no navegador.
+
+10 da manhã. Um erro estranho. Ele copia a mensagem e cola no buscador. Um fórum de 2014 com a mesma dúvida e nenhuma resposta.
+
+Meio-dia. Ainda escrevendo o código repetitivo: validação, formulário, mais validação.
+
+3 da tarde. Os testes ficaram para depois. Sempre ficam.
+
+7 da noite. O deploy quebra em produção, e o João fica até tarde, sozinho, procurando o problema linha por linha.
+
+DEPOIS
+
+Agora, o mesmo João com IA. 8 da manhã, a mesma tarefa. Ele pede um resumo da documentação e, em dois minutos, entende o caminho.
+
+10 da manhã. O mesmo erro estranho. Ele mostra o código para o assistente e recebe a causa provável, com a correção. Mas o João não aceita tudo de olhos fechados: ele revisa, testa e ajusta.
+
+Meio-dia. O código repetitivo agora sai em segundos, e o tempo dele vai para o que importa: arquitetura e regra de negócio.
+
+3 da tarde. A IA sugere os testes, inclusive os casos em que ele nem tinha pensado.
+
+6 da tarde. Deploy feito, testado e revisado, e o João vai para casa no horário.
+
+Num estudo do GitHub, devs com o assistente de IA terminaram uma tarefa 55% mais rápido. Mas a IA não substituiu o João: ela mudou o trabalho dele. Menos tempo digitando, mais tempo pensando. Quem decide o que construir, por que construir e se está certo continua sendo ele.
+
+O dev do futuro não é o que digita mais rápido; é o que faz as melhores perguntas. E você, dev, o que mudou no seu dia a dia? Conta aqui nos comentários e se inscreve no Tech por Dentro.

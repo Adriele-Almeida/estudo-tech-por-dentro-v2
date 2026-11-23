@@ -1,0 +1,22 @@
+João foi substituído por uma IA… por 3 dias
+https://www.youtube.com/watch?v=KYoNmnLp8Us
+Canal: Tech por Dentro | Publicado em 22/11/2026
+============================================================
+
+Esse é o João, 23 anos, desenvolvedor de RPA em Python. Segunda-feira, 8 da manhã. O chefe dele, o Iago, chama o João na sala: "João, a diretoria comprou um agente de inteligência artificial. Ele programa 24 horas por dia, não pede férias, não toma café. Você tira três dias de folga. Vamos ver como ele se sai." O João sai da sala sem entender se foi folga ou se foi demissão.
+
+O nome da IA é Aura. E a Aura é muito, muito confiante. Na primeira hora, a Aura entrega 40 robôs. Quarenta! A diretoria aplaude. Alguém abre um espumante. O Iago posta no LinkedIn, e o João está na praia, atualizando o e-mail a cada 30 segundos.
+
+Terça-feira. O primeiro robô da Aura lança a mesma nota fiscal 3.000 vezes. O Iago pergunta o que aconteceu. A Aura responde: "Você tem toda a razão. Peço desculpas pelo erro." E lança mais 3.000. O segundo robô usa uma biblioteca de Python que simplesmente não existe: a Aura inventou. O terceiro robô foi testar em produção, porque, segundo a Aura, produção é o ambiente mais realista. Ninguém entende o código: são 12.000 linhas sem comentário, sem documentação, e todas as variáveis se chamam "dados".
+
+Quarta-feira, 6 da manhã. O financeiro está parado, o cliente está ligando, a diretoria sumiu do grupo. O Iago faz a única coisa que dá para fazer: liga para o João. O João atende de bermuda, com um coco na mão, e ouve só uma frase: "João, volta, pelo amor de Deus."
+
+O João volta, abre o código e passa o dia inteiro fazendo o que a IA não faz: entendendo o problema. Desliga os robôs, apaga as notas duplicadas, remove a biblioteca imaginária e bloqueia a Aura de mexer em produção.
+
+E aqui vem a parte que ninguém conta. Um estudo de um instituto de pesquisa americano acompanhou 16 desenvolvedores experientes em 246 tarefas reais. Com IA, eles levaram 19% mais tempo para terminar. E o mais curioso: eles achavam que estavam mais rápidos. O tempo que a IA economiza escrevendo código vai embora revisando, corrigindo e explicando para ela o que ela fez de errado.
+
+Moral da história: a IA não substitui o dev. Ela substitui o dev que não revisa o que a IA escreveu.
+
+Final feliz? Quase. O Iago chama o João de novo: "Ótimo trabalho. Decidimos ficar com os dois. A Aura gera 40 robôs por dia, e você revisa todos." O relógio do João marca 190 batimentos por minuto.
+
+Se você é dev e já teve que consertar o código de uma IA, comenta aqui embaixo e se inscreve no Tech por Dentro.

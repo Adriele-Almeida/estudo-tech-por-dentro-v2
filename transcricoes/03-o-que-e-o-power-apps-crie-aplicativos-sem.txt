@@ -1,0 +1,37 @@
+O que é o Power Apps? Crie aplicativos sem programar
+https://www.youtube.com/watch?v=0CTlCAK14bI
+Canal: Tech por Dentro | Publicado em 14/11/2026
+============================================================
+
+São 48 formulários de papel por semana. Alguém ainda precisa digitar tudo no computador, e metade da letra ninguém entende. Comprar um sistema sob medida é caro e demorado. Programar um aplicativo precisa de desenvolvedor, e a fila da TI é longa. E se a própria equipe criasse o aplicativo arrastando blocos, quase como quem monta uma planilha? É isso que faz o Power Apps, a ferramenta da Microsoft para criar aplicativos de negócio com pouco ou nenhum código. Hoje você vai entender como ele funciona, os tipos de app e quanto custa. Se curte esse tipo de vídeo, já deixa o like e se inscreve no canal.
+
+Ele chega ao mercado em novembro de 2016, junto com o Microsoft Flow, que hoje é o Power Automate. Em novembro de 2020, o banco de dados da plataforma ganha o nome de Dataverse. Em março de 2021, a linguagem de fórmulas ganha nome próprio, Power Fx, inspirada nas fórmulas do Excel.
+
+Todo app tem três peças: as telas, onde o usuário toca; os dados, onde a informação fica guardada; e as fórmulas, que dizem o que acontece em cada clique.
+
+As telas são montadas arrastando componentes: botões, caixas de texto, listas, câmera e até leitor de código de barras. Os dados podem vir de vários lugares: uma lista do SharePoint, uma planilha do Excel, um banco SQL ou o Dataverse. São os mesmos conectores do Power Automate. E as fórmulas usam o Power Fx. Se você sabe fazer um SE no Excel, já entende boa parte da lógica.
+
+Existem dois tipos principais de aplicativo, e a diferença está no ponto de partida.
+
+No app de tela, o Canvas, você começa de uma tela em branco e desenha tudo do seu jeito. Liberdade total no visual, ótimo para celular.
+
+No app baseado em modelo, o model-driven, você começa pelos dados: define as tabelas e o sistema gera as telas, os formulários e as listas. Inclusive, boa parte do Dynamics 365 é feita assim.
+
+Resumindo: Canvas para liberdade e apps de campo; model-driven para processos complexos e cheios de dados.
+
+Voltando ao nosso exemplo: o técnico abre o app no celular, tira foto, marca o checklist e envia. Os dados caem direto no SharePoint e um fluxo do Power Automate avisa o gestor. E o app pode rodar no celular, no navegador ou dentro do Teams, com o mesmo login da empresa. Com o Copilot, você descreve o aplicativo de que precisa e ele cria a tabela e as primeiras telas para você começar.
+
+E quanto custa? Depende de quais dados o app usa. Se a empresa tem Microsoft 365, dá para criar apps com os conectores padrão, como SharePoint e Excel. O Premium, por 20 dólares por usuário por mês, libera apps ilimitados, conectores premium e o Dataverse. E, no pagamento por uso, são 10 dólares por usuário ativo, por app, no mês.
+
+Mas atenção: app sem dono vira problema. Defina quem mantém, onde ficam os dados e quem pode acessar.
+
+Como saber se a sua área precisa de um app? Cinco sinais:
+1. Ainda existe formulário de papel.
+2. A planilha compartilhada vive quebrando.
+3. O processo depende de e-mail para andar.
+4. A equipe em campo não acessa o sistema.
+5. Os mesmos dados são digitados duas vezes.
+
+Lembra dos 48 formulários de papel? Com um app, a digitação vai a zero: a informação já nasce digital. O Power Apps coloca o poder de criar sistemas na mão de quem conhece o processo de verdade.
+
+E você, que aplicativo criaria primeiro na sua empresa? Conta aqui nos comentários. Se esse vídeo te ajudou, deixa o like e se inscreve no Tech por Dentro.

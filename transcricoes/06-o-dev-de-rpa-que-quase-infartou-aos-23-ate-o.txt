@@ -1,0 +1,26 @@
+O dev de RPA que quase infartou aos 23 (até o chefe chegar)
+https://www.youtube.com/watch?v=Gqc5HAbY834
+Canal: Tech por Dentro | Publicado em 17/11/2026
+============================================================
+
+Esse é o João, 23 anos, desenvolvedor de RPA em Python. A missão dele é simples: criar um robô que lê uma planilha e lança tudo no sistema, sozinho, de madrugada, sem ninguém clicar em nada.
+
+Segunda-feira, o robô fica pronto. O João testa: funciona de primeira. Ele manda para a área de negócio e recebe a resposta: "Ah, mas a planilha mudou." Mudou a coluna, mudou o nome da aba e agora tem célula mesclada. O João respira fundo, ajusta o código e manda de novo. "Ficou ótimo, só que o diretor precisa aprovar." O diretor está de férias por três semanas.
+
+Quarta-feira, nova reunião: uma hora e meia. Podia ter sido um e-mail. Decidiram que o robô não pode clicar em "Salvar"; alguém precisa conferir antes. "Mas, então, para que serve o robô?", pensa o João.
+
+Sexta-feira, 6 da tarde: "Sobe hoje? É urgente. Ah, e a regra mudou de novo."
+
+Foi aí que o João quebrou. Primeiro o teclado, depois a caneca, depois a cadeira. O relógio dele marca 180 batimentos por minuto. Com 23 anos, o João estava a um "só mais um ajustezinho" de um infarto.
+
+Até que chega o chefe dele, o Iago. O Iago não gritou, não quebrou nada. Ele abriu um quadro e aplicou o processo.
+
+Primeiro: nenhum robô começa sem o PDD assinado, o documento que diz exatamente o que o robô faz.
+Segundo: um único dono do processo na área de negócio. Uma pessoa decide, não um grupo de WhatsApp.
+Terceiro: mudou a regra? Vira uma solicitação de mudança e entra na fila, com prazo novo.
+Quarto: homologação com critérios de aceite. Passou no teste, está aprovado.
+E o deploy? Nunca na sexta às 6 da tarde.
+
+Duas semanas depois, o robô estava em produção, rodando sozinho, de madrugada. E o João? Batimentos em 72, uma planta nova na mesa e um teclado que finalmente sobreviveu.
+
+Moral da história: o problema quase nunca é o código; é a falta de processo. Se você trabalha com automação, marca aquele colega que já quebrou um teclado e se inscreve no Tech por Dentro.
